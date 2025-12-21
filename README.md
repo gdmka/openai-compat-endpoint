@@ -8,7 +8,7 @@
 - [Roadmap & bugs](#roadmap--bugs)
 - [Links](#links)
 
-# OpenAI-Compatible Endpoint for LM Studio
+# OpenAI-Compatible Client for LM Studio
 
 Turn **LM Studio** into a cloud-ready powerhouse. Access local and cloud inference simultaneously in the same app!
 This fork lets you chat with **Cerebras, Groq, OpenRouter, Claude, GPT-4o, Gemini-2.5, DeepSeek, Kimi-K2, GLM V4.5**—or any OpenAI-shaped endpoint—without ever leaving the comfy LM Studio UI.
