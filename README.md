@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [OpenAI-Compatible Endpoint for LM Studio](#openai-compatible-endpoint-for-lm-studio)
+- [OpenAI-Compatible Client for LM Studio](#openai-compatible-client-for-lm-studio)
 - [What's new](#whats-new)
 - [Install in 5 seconds](#install-in-5-seconds)
 - [Full text search](#full-text-search)
