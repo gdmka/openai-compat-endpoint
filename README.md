@@ -18,6 +18,7 @@ This fork lets you chat with **Cerebras, Groq, OpenRouter, Claude, GPT-4o, Gemin
 - Native OpenAI sampling knobs (temperature, top-p, frequency penalty, etc.) exposed in the GUI  
 - Zero config: paste your API key, pick the model, start vibing  
 - Keeps all local-model superpowers intact—switch between cloud and local on the fly
+- Added custom system prompt support 
 
 ## Install in 5 seconds
 
@@ -43,7 +44,8 @@ Unlock the full power of productivity by instantly navigating between search ter
 2. In LM Studio → Chat → Your Generators load the plugin → hit Show Settings shortcut → pick Generators tab → paste key  
 3. Type model name, select AI provider, tweak sampling, chat away!
 
-![settings screenshot](https://github.com/user-attachments/assets/8c4ed148-e2c7-45f8-ab67-7997b9d02f2f)
+<img width="1792" height="1083" alt="image" src="https://github.com/user-attachments/assets/2dfef5a0-0d26-411d-b1a3-f10188941f01" />
+
 
 ## Roadmap & bugs
 
