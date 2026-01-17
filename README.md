@@ -6,6 +6,7 @@
 - [Full text search](#full-text-search)
 - [Quick start](#quick-start)
 - [Roadmap & bugs](#roadmap--bugs)
+- [Project Support](#support)
 - [Links](#links)
 
 # OpenAI-Compatible Client for LM Studio
@@ -51,6 +52,12 @@ Unlock the full power of productivity by instantly navigating between search ter
 
 Got feature requests or bugs?  
 Drop them in the [Issues](https://github.com/gdmka/openai-compat-endpoint/issues) tab—every ticket gets love.
+
+## Support
+
+If you find this project helpful, consider buying me a coffee!  
+
+<a href="https://www.buymeacoffee.com/gdmka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Links
 
