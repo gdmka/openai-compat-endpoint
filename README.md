@@ -16,6 +16,7 @@ This fork lets you chat with **Cerebras, Groq, OpenRouter, Claude, GPT-4o, Gemin
 
 ## What’s new
 
+- **Added support for reasoning effort and thinking for OpenAI and Anthropic compatible models** 
 - Native OpenAI sampling knobs (temperature, top-p, frequency penalty, etc.) exposed in the GUI  
 - Zero config: paste your API key, pick the model, start vibing  
 - Keeps all local-model superpowers intact—switch between cloud and local on the fly
@@ -58,6 +59,11 @@ Drop them in the [Issues](https://github.com/gdmka/openai-compat-endpoint/issues
 If you find this project helpful, consider buying me a coffee!  
 
 <a href="https://www.buymeacoffee.com/gdmka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Project Supporters
+
+[@jrdubbleu](https://github.com/jrdubbleu)
+
 
 ## Links
 
