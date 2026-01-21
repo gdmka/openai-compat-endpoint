@@ -7,6 +7,7 @@
 - [Quick start](#quick-start)
 - [Roadmap & bugs](#roadmap--bugs)
 - [Project Support](#support)
+- [Project Supporters](#project-supporters)
 - [Links](#links)
 
 # OpenAI-Compatible Client for LM Studio
